@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 const title = '増田裕一の口コミ・評判は？カシオ元社長の経歴とG-SHOCKへの貢献を解説';
 const description = 'カシオ計算機の元社長・増田裕一氏の口コミや評判を、公開記事と公式資料から解説。経歴、時計専門誌による評価、G-SHOCKの戦略、社長退任時の説明を出典付きで整理します。';
-const url = 'https://www.bizrootsmedia.com/casio-masuda-yuichi-reputation/';
+const url = 'https://www.bizrootsmedia.com/casio-masuda-yuichi-reputation';
 export const metadata: Metadata = { title, description, alternates: { canonical: url }, openGraph: { title, description, url, type: 'article', locale: 'ja_JP' } };
 const sources = [
   ['クロノス日本版：増田裕一氏インタビュー（2023年7月29日）', 'https://www.webchronos.net/features/99606/'],

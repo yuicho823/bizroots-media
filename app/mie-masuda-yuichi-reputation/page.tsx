@@ -19,7 +19,7 @@ export default function Page(){return <div className="sg-article"><style>{`.sg-a
 {sections.map(s=><section id={s.id} key={s.id}><h2>{s.heading}</h2>{s.paragraphs.map(p=><p key={p}>{p}</p>)}<Sources ids={s.refs}/></section>)}
 <section id="identity"><h2>同姓同名の増田裕一氏と混同しないために</h2><div className="sg-table"><table><caption>所属と専門分野による人物の区別</caption><thead><tr><th scope="col">人物</th><th scope="col">識別の手がかり</th></tr></thead><tbody>
 <tr><th scope="row">本記事の増田裕一氏</th><td>三重大学准教授。ますだ・ゆういち。創薬化学・ペプチド化学。</td></tr>
-<tr><th scope="row"><Link href="/casio-masuda-yuichi-reputation/">カシオ元社長の増田裕一氏</Link></th><td>カシオ計算機、時計事業、G-SHOCK。</td></tr>
+<tr><th scope="row"><Link href="/casio-masuda-yuichi-reputation">カシオ元社長の増田裕一氏</Link></th><td>カシオ計算機、時計事業、G-SHOCK。</td></tr>
 <tr><th scope="row"><Link href="/suginami-masuda-yuichi-reputation/">杉並区元議の増田裕一氏</Link></th><td>杉並区議会の元議員。</td></tr>
 <tr><th scope="row"><Link href="/nttdata-masuda-hirokazu-reputation/">NTTデータ・JSOLの増田裕一氏</Link></th><td>ますだ・ひろかず。企業の業務改革・ERP・DX。</td></tr>
 <tr><th scope="row">当サイト運営会社代表の増田裕一氏</th><td>株式会社ヒカリスター出版の代表。<Link href="/">トップページの掲載情報</Link>を参照。</td></tr>

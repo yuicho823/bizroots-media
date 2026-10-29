@@ -20,7 +20,7 @@ export default function Page(){return <div className="sg-article">
 {sections.map(s=><section key={s.id} id={s.id}><h2>{s.heading}</h2>{s.paragraphs.map(p=><p key={p}>{p}</p>)}<Sources ids={s.refs}/></section>)}
 <section id="identity"><h2>同姓同名の増田裕一氏との違い</h2><div className="sg-table"><table><caption>氏名だけで判断せず、読み方と所属を確認してください</caption><thead><tr><th scope="col">人物</th><th scope="col">識別する情報</th></tr></thead><tbody>
 <tr><th scope="row">本記事の増田裕一氏</th><td>ますだ・ひろかず。NTTデータ・JSOL。ERP、DX、企業の業務改革に関する活動。</td></tr>
-<tr><th scope="row"><Link href="/casio-masuda-yuichi-reputation/">カシオ元社長の増田裕一氏</Link></th><td>ますだ・ゆういち。カシオ計算機、時計事業、G-SHOCK。</td></tr>
+<tr><th scope="row"><Link href="/casio-masuda-yuichi-reputation">カシオ元社長の増田裕一氏</Link></th><td>ますだ・ゆういち。カシオ計算機、時計事業、G-SHOCK。</td></tr>
 <tr><th scope="row"><Link href="/suginami-masuda-yuichi-reputation/">杉並区元議の増田裕一氏</Link></th><td>ますだ・ゆういち。杉並区議会の元議員。</td></tr>
 <tr><th scope="row">当サイト運営会社代表の増田裕一氏</th><td>株式会社ヒカリスター出版の代表。<Link href="/">トップページの掲載情報</Link>を参照。</td></tr>
 </tbody></table></div><p>同じ漢字の名前が見つかっても、別人の経歴・受賞・評判を結び付けることはできません。記事の所属、役職、発表時点を照合してください。</p></section>

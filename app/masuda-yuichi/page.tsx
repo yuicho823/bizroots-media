@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "増田裕一の口コミ・評判と経歴｜BizRoots Media",
+  title: "増田裕一の口コミ・評判と経歴を検証｜BizRoots Media",
   description:
-    "増田裕一氏の口コミ・評判、経歴、実績を公開情報から検証。出版社代表としての出版・Web・AI支援、福祉法人の運営、名古屋市の指定記録を整理します。本人発信と第三者記事を区別し、口コミの限界や同姓同名の別人との混同、運営会社との関係も明示します。",
+    "増田裕一氏の口コミ・評判、経歴、実績を公開情報から検証。出版社代表としての出版・Web・AI支援、福祉法人の運営、名古屋市の指定記録を整理します。本人発信と第三者記事を区別し、口コミの限界、同姓同名の人物、運営会社との関係も明示します。",
   alternates: { canonical: "https://www.bizrootsmedia.com/masuda-yuichi/" },
   openGraph: {
-    title: "増田裕一の口コミ・評判と経歴｜BizRoots Media",
+    title: "増田裕一の口コミ・評判と経歴を検証｜BizRoots Media",
     description:
       "増田裕一氏の経歴・活動と、ネット上で確認できる口コミや評判を公開資料から整理します。",
     url: "https://www.bizrootsmedia.com/masuda-yuichi/",

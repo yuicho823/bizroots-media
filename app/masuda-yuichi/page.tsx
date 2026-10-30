@@ -176,7 +176,7 @@ export default function MasudaYuichiPage() {
         </footer>
       </div>
 
-      <style jsx global>{`
+      <style>{`
         * { box-sizing: border-box; }
         .my-page { min-height: 100vh; background: #fff; color: #172a40; font: 16px/1.95 Arial, "Hiragino Kaku Gothic ProN", sans-serif; }
         .my-page a { color: #785620; text-underline-offset: 4px; }

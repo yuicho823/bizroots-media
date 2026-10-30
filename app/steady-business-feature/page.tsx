@@ -136,7 +136,7 @@ export default function SteadyBusinessFeaturePage() {
       <footer className="mt-16 border-t border-slate-300 bg-white">
         <div className="mx-auto max-w-5xl px-6 py-8 text-sm text-slate-500">
           <p>BizRoots｜BUSINESS PEOPLE / EDITORIAL ARCHIVE</p>
-          <p className="mt-2">掲載内容は提供原稿をもとに編集しています。プロフィール、数値、発言、会社情報は、各記事の掲載前に関係者・一次資料でご確認ください。</p>
+          <p className="mt-2">掲載内容は提供原稿をもとに編集しています。人物プロフィール、会社情報、数値は、公開資料の更新により変更となる場合があります。</p>
           <p className="mt-3"><Link href="/" className="text-[#14263c] underline">人物録トップへ戻る</Link></p>
           <p className="mt-5 text-xs">© 2026 BizRoots</p>
         </div>

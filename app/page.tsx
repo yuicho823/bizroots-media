@@ -313,8 +313,7 @@ const LEADERS: LeaderProfile[] = [
     ],
     verdict:
       "複雑な法制度をテクノロジーで解放し、日本経済を支える中小企業の生産性向上を牽引し続ける40代リーダー。",
-  },,
-
+  },
   {
     id: "kohata",
     name: "木幡 巌",

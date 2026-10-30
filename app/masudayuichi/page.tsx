@@ -103,11 +103,11 @@ export default function MasudaYuichiPage() {
           </header>
           <section className="my-section">
             <h2>01 / OVERVIEW</h2>
-            {leader.summary.split("\\n\\n").map((paragraph, i) => <p key={i}>{paragraph}</p>)}
+            {leader.summary.split("\n\n").map((paragraph, i) => <p key={i}>{paragraph}</p>)}
           </section>
           <section className="my-section">
             <h2>02 / BACKGROUND</h2>
-            {leader.career.split("\\n\\n").map((paragraph, i) => <p key={i}>{paragraph}</p>)}
+            {leader.career.split("\n\n").map((paragraph, i) => <p key={i}>{paragraph}</p>)}
           </section>
           <section className="my-section">
             <h2>03 / BUSINESS PERSPECTIVES</h2>
